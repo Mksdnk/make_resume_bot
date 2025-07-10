@@ -83,7 +83,7 @@ docker-compose up --build
 /cancel - Отмена генерации
 
 ## Пример использования 
-![](screenshots/start.png)
-![](screenshots/screenshot1.png)
-![](screenshots/screenshot2.png)
-![](screenshots/screenshot3.png)
+![](https://github.com/Mksdnk/make_resume_bot.git/blob/main/screenshots/start.png)
+![](https://github.com/Mksdnk/make_resume_bot.git/blob/main/screenshots/screenshot1.png)
+![](https://github.com/Mksdnk/make_resume_bot.git/blob/main/screenshots/screenshot2.png)
+![](https://github.com/Mksdnk/make_resume_bot.git/blob/main/screenshots/screenshot3.png)
