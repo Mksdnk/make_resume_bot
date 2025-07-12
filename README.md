@@ -64,7 +64,7 @@
 
 1. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/resume-bot.git
+git clone https://github.com/Mksdnk/make_resume_bot.git
 ```
 2. Создайте .env файл с следующими переменными:
 ```.env
