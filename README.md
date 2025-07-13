@@ -85,7 +85,10 @@ docker-compose up --build
 ## Пример использования 
 В папке screenshots
 ВНИМАНИЕ, ВСЕ ВХОДНЫЕ ДАННЫЕ ДЛЯ ТЕСТА БОТА БЫЛИ СГЕНЕРИРОВАНЫ НЕЙРОСЕТЬЮ
-![](https://raw.githubusercontent.com/Mksdnk/make_resume_bot/main/screenshots/start.png)
 ![](https://raw.githubusercontent.com/Mksdnk/make_resume_bot/main/screenshots/screenshot1.png)
 ![](https://raw.githubusercontent.com/Mksdnk/make_resume_bot/main/screenshots/screenshot2.png)
 ![](https://raw.githubusercontent.com/Mksdnk/make_resume_bot/main/screenshots/screenshot3.png)
+![](https://raw.githubusercontent.com/Mksdnk/make_resume_bot/main/screenshots/screenshot4.png)
+![](https://raw.githubusercontent.com/Mksdnk/make_resume_bot/main/screenshots/screenshot5.png)
+![](https://raw.githubusercontent.com/Mksdnk/make_resume_bot/main/screenshots/screenshot6.png)
+![](https://raw.githubusercontent.com/Mksdnk/make_resume_bot/main/screenshots/screenshot7.png)
