@@ -83,6 +83,8 @@ docker-compose up --build
 /cancel - Отмена генерации
 
 ## Пример использования 
+В папке screenshots
+ВНИМАНИЕ, ВСЕ ВХОДНЫЕ ДАННЫЕ ДЛЯ ТЕСТА БОТА БЫЛИ СГЕНЕРИРОВАНЫ НЕЙРОСЕТЬЮ
 ![](https://raw.githubusercontent.com/Mksdnk/make_resume_bot/main/screenshots/start.png)
 ![](https://raw.githubusercontent.com/Mksdnk/make_resume_bot/main/screenshots/screenshot1.png)
 ![](https://raw.githubusercontent.com/Mksdnk/make_resume_bot/main/screenshots/screenshot2.png)
